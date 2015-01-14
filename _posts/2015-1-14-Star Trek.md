@@ -9,4 +9,4 @@ title: These are the voyages.
 
 I love Star Trek becuase that world to me is the one that I would hope that humanity aspires to. 
 
-[Visit StarTrek.com](www.startrek.com)
+[Visit StarTrek.com](http://www.startrek.com/)
